@@ -81,7 +81,7 @@ public class SimpleAlert {
      *  <code>true</code> if clicked the OK button.
      *  <code>false</code> if clicked CANCEL button or closed the dialog.
      */
-    public static boolean confimation (String header, String msg) {
+    public static boolean confirmation (String header, String msg) {
         Alert a = new Alert(Alert.AlertType.CONFIRMATION);
         a.setTitle("Confirmation");
         a.setHeaderText(header);
