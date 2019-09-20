@@ -13,4 +13,4 @@ SimpleAlert.info("HEADER EXAMPLE!", "Content text example.");
 SimpleAlert.warning("HEADER EXAMPLE!", "Content text example.");
         
 
-boolean confirm = SimpleAlert.confimation("HEADER EXAMPLE!", "Content text example.");
+boolean confirm = SimpleAlert.confirmation("HEADER EXAMPLE!", "Content text example.");
